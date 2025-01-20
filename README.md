@@ -10,13 +10,9 @@ Question is based on the basic knowledge related to india.
 ## Interface
 # Interface
 
-<div style="text-align: center;">
-  ![Alt Text](FrontPage.jpg)
-  <br>
-  ![Alt Text](FrontPage.jpg)
-  <br>
-  ![Alt Text](FrontPage.jpg)
-  <br>
-  ![Alt Text](FrontPage.jpg)
-</div>
+# Interface
+
+| ![Alt Text](FrontPage.jpg) | ![Alt Text](FrontPage.jpg) |
+|:--------------------------:|:--------------------------:|
+| ![Alt Text](FrontPage.jpg) | ![Alt Text](FrontPage.jpg) |
 
