@@ -1,0 +1,25 @@
+All types of library, methods, objects used in swing and awt to create quiz game:
+Library:
+java.swing,*;
+java.awt.event.*;
+
+Objects:
+JFrame jf=new JFrame();
+JLabel jl=new JLabel();
+JRadioButton jrb=new JRadioButton();
+ButtonGroup bg=new ButtonGroup();
+JButton jb=new JButton();
+
+Methods:
+setSize();
+setVisible(true);
+setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+setLayout(null);
+setBounds(10,10,10,10);
+add();
+button.addActionListener();
+frame.getContentPane().removeAll();
+public void actionPerformed(ActionEvent e){}
+option.isSelected()
+
+Note:- Implements ActionListener interface to the class which help in event listener.
