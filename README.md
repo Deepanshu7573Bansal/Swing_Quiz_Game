@@ -8,11 +8,6 @@ Question is based on the basic knowledge related to india.
 10
 
 ## Interface
-# Interface
-
-# Interface
-
-| ![Alt Text](FrontPage.jpg) | ![Alt Text](FrontPage.jpg) |
-|:--------------------------:|:--------------------------:|
-| ![Alt Text](FrontPage.jpg) | ![Alt Text](FrontPage.jpg) |
-
+| ![Alt Text](FrontPage.jpg) | ![Alt Text](Question-1.jpg) |
+|:--------------------------:|:---------------------------:|
+| ![Alt Text](Question-2.jpg) | ![Alt Text](Result.jpg)     |
