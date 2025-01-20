@@ -6,3 +6,5 @@ Question is based on the basic knowledge related to india.
 
 ## Total question:
 10
+
+## Interface
