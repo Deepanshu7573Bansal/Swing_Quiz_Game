@@ -8,3 +8,4 @@ Question is based on the basic knowledge related to india.
 10
 
 ## Interface
+![Alt Text](FrontPage.jpg)
